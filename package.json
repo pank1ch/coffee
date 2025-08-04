@@ -13,7 +13,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "vue": "^3.5.17"
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "swiper": "^11.2.10",
+    "vue": "^3.5.17",
+    "vue-router": "^4.0.13"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.2",
